@@ -4,12 +4,12 @@ import { DocsThemeConfig } from 'nextra-theme-docs'
 const config: DocsThemeConfig = {
   logo: <span className=" font-bold text-2xl shadow-lg shadow-blue-600">Votr.io</span>,
   project: {
-    link: 'https://github.com/shuding/nextra-docs-template',
+    link: 'https://github.com/David-glitc/Docs.Votr_io',
   },
   chat: {
     link: 'https://discord.com',
   },
-  docsRepositoryBase: 'https://github.com/shuding/nextra-docs-template',
+  docsRepositoryBase: 'https://github.com/David-glitc/Docs.Votr_i';
   footer: {
     text: 'Votr.io',
   },

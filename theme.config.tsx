@@ -9,7 +9,7 @@ const config: DocsThemeConfig = {
   chat: {
     link: 'https://discord.com',
   },
-  docsRepositoryBase: 'https://github.com/David-glitc/Docs.Votr_i';
+  docsRepositoryBase: 'https://github.com/David-glitc/Docs.Votr_i',
   footer: {
     text: 'Votr.io',
   },

@@ -9,5 +9,8 @@
     },
     "title": "Get Started"
   },
+  "Voters": {
+    "type": "seperator"
+  },
   "WhitePaper": "White Paper"
 }

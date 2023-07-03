@@ -1,3 +1,5 @@
+
+
 function LandingPage (){
   return (
     <div className="bg-gray-100">
@@ -18,7 +20,7 @@ function LandingPage (){
           </p>
         </div>
       </section>
-      <section className=" h-screen flex flex-col justify-center items-center">
+      <section className=" min-h-screen flex flex-col justify-center items-center">
         <div className="max-w-3xl text-center px-4">
           <h3 className="text-2xl md:text-4xl font-bold mb-8">
             Why Choose Votr.io?

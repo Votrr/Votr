@@ -1,13 +1,17 @@
 {
-  "index":{
-    "title":"Votr.io",
-    "display":"hidden",
-    "theme":{
-      "layout":"raw"
+  "index": {
+    "title": "Votr.io",
+    "display": "hidden",
+    "theme": {
+      "layout": "raw"
     }
   },
-  "about":{
-    "title":"About",
-    "type":"page"
+  "about": {
+    "title": "About",
+    "type": "page"
+  },
+  "Docs": {
+    "title": "Know more",
+    "type": "page"
   }
 }

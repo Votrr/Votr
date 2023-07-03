@@ -1,0 +1,16 @@
+{
+  "index": {
+    "theme": {
+      "breadcrumb": true,
+      "footer": true,
+      "sidebar": true,
+      "toc": true,
+      "pagination": true
+    },
+    "title": "Get Started"
+  },
+  "Voters": {
+    "type": "seperator"
+  },
+  "WhitePaper": "White Paper"
+}

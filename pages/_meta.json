@@ -1,15 +1,13 @@
 {
-  "index": "Introduction",
-  "another": "Another Page",
-  "advanced": "Advanced (A Folder)",
-  "about": {
-    "title": "About",
-    "type": "page"
+  "index":{
+    "title":"Votr.io",
+    "display":"hidden",
+    "theme":{
+      "layout":"raw"
+    }
   },
-  "contact": {
-    "title": "Contact ↗",
-    "type": "page",
-    "href": "https://twitter.com/shuding_",
-    "newWindow": true
+  "about":{
+    "title":"About",
+    "type":"page"
   }
 }
